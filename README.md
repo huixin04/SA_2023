@@ -26,7 +26,7 @@ var s="JavaScript highlights";
 alert(s)
 ```
 ----
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watchv=vW97zXDvuts&list=RDvW97zXDvuts&start_radio=1")
+[![Everything Is AWESOME](https://i.ytimg.com/vi/aT6056Eb11I/maxresdefault.jpg)](https://www.youtube.com/watch?v=vW97zXDvuts&list=RDvW97zXDvuts&start_radio=1)
 
 ----
 | Left-Aligned | Center Aligned | Right Aligned |
