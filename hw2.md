@@ -21,7 +21,8 @@ gantt
 ```
 
 ## PERT/CPM圖
-![RERT](PERT.jpg "PERT")
+
+![RERT](PERT.jpg "PERT2")
 
 
 ## 關鍵路徑
