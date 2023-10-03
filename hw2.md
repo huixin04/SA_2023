@@ -3,7 +3,7 @@
 ## 甘特圖
 ```mermaid
 gantt
-    Task Diagram
+    title task Diagram
 
     section 任務 
      研擬計畫          :a1, 2023-01-01, 1d
