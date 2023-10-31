@@ -1,3 +1,4 @@
+```js
 import java.util.ArrayList;
 import java.util.List;
 
@@ -38,3 +39,4 @@ public class Course {
 
     // Getters, setters, and other relevant methods
 }
+```
